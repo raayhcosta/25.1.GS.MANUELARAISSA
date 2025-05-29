@@ -20,8 +20,8 @@ while True:
         print("Informações armazenadas")
         break
     else:
-        print("Dados inválidos. Alguma informação foi inserida com a quantidade errada.")
-
+        print("Dados inválidos. Alguma informação foi inserida com a quantidade errada. Insira novamente todas as quantidades.")
+        break
 
 
 
